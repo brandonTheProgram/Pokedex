@@ -1,0 +1,97 @@
+***************************************************************
+Purugly #432
+
+Species: Tiger Cat Pokemon
+Type(s): Normal
+
+To make itself appear intimidatingly beefy, it tightly cinches its waist
+with its twin tails.
+
+***************************************************************
+Abilities: Thick Fat - Own Tempo - Defiant (Hidden Ability)
+
+Thick Fat: Fire and Ice-type moves deal 50% damage.
+
+Own Tempo: The Pokemon cannot be Confused while having this
+ability.
+
+Hidden Ability
+
+Defiant: Attack is raised by two stages when the Pokemon has its
+stats lowered. Doesn't work on self inflicted stat
+drops or drops from allies.
+***************************************************************
+
+Damage Taken:
+NORMAL    : *1
+FIGHTING  : *2
+FLYING    : *1
+POISON    : *1
+GROUND    : *1
+ROCK      : *1
+BUG       : *1
+GHOST     : *0
+STEEL     : *1
+FIRE      : *1
+WATER     : *1
+GRASS     : *1
+ELETRIC   : *1
+PSYCHIC   : *1
+ICE       : *1
+DRAGON    : *1
+DARK      : *1
+FAIRY     : *1
+
+Evolutionary Chain:
+
+Glameow evolves by leveling up to level 38 into Purugly.
+***************************************************************
+
+***************************************************************
+Charmander #  4
+
+Species: Lizard Pokemon
+Type(s): Fire
+
+The flame that burns at the tip of its tail is an indication of its
+emotions. If the Pokemon becomes enraged, the flame burns fiercely.
+
+***************************************************************
+Abilities: Blaze - Solar Power (Hidden Ability)
+
+Blaze: When HP is below 1/3rd its maximum, power of Fire-type
+moves is increased by 50%.
+
+Hidden Ability
+
+Solar Power: During sunshine, the Pokemon's Special Attack raises to
+1.5 times but HP decreases by 1/8th the maximum HP
+every turn.
+***************************************************************
+
+Damage Taken:
+NORMAL    : *1
+FIGHTING  : *1
+FLYING    : *1
+POISON    : *1
+GROUND    : *2
+ROCK      : *2
+BUG       : *0.5
+GHOST     : *1
+STEEL     : *0.5
+FIRE      : *0.5
+WATER     : *2
+GRASS     : *0.5
+ELETRIC   : *1
+PSYCHIC   : *1
+ICE       : *0.5
+DRAGON    : *1
+DARK      : *1
+FAIRY     : *0.5
+
+Evolutionary Chain:
+
+Charmander evolves by leveling up to level 16 into Charmeleon
+then leveling up to level 36 for Charizard.
+***************************************************************
+
