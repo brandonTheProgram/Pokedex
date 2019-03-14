@@ -1,6 +1,6 @@
 # Pokedex
 
-This was my first fun project that I created outside of my Computer Science class. This was created with the knowledge of what I learned in one semester of learning C++. This project is meant to emulate a Pokedex that a person would find inside the games or the show. All output that is generated from the program is sent to an output file name "OFile.txt", open that to see the results! An example of what the output looks like is displayed below using Charmander as an example.
+This was my first fun project that I created outside of my Computer Science class. This was created with the knowledge of what I learned in one semester of learning C++. This project is meant to emulate a Pokedex that a person would find inside the games or the show. All output that is generated from the program is sent to an output file name "OFile.txt", open that to see the results! An example of what the output looks like is displayed below using Charmander as an example. The syntax of most of the documentation appears off when viewing the file, but is correct when displayed in Eclipse or MS Visual Studio
 
 # To Use
 
